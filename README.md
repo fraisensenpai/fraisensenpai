@@ -14,7 +14,8 @@ Tools & Localization: Git/GitHub, Technical Documentation, Software Localization
 🛠 Engineering Projects
 
 
-Lucretia Aydınlık Zirvesi '26 Link: https://lucretia26.vercel.app/
+Lucretia Aydınlık Zirvesi '26 
+Link: https://lucretia26.vercel.app/
 Role: Lead Developer & Infrastructure Architect
 
 Technical Scope: Developed the digital backbone for a high-profile youth summit focused on entrepreneurship and sports. The platform manages complex application pipelines and provides a central hub for event content. Engineered for high performance and rapid response times during peak registration periods.
