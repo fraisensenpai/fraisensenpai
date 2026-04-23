@@ -7,18 +7,21 @@ Dedicated to building scalable platforms and integrated digital ecosystems. I fo
 Frontend Architecture: React.js, Next.js, Tailwind CSS, TypeScript, Responsive UI/UX Design.
 
 Backend & Infrastructure: Supabase (BaaS), PostgreSQL, Node.js, Python, RESTful API Design.
-
 Hardware & Robotics: C++, Jetson Nano, Raspberry Pi, FPV Drone Systems (Pixhawk/Mavlink), YOLOv5 Object Detection.
-
 Tools & Localization: Git/GitHub, Technical Documentation, Software Localization (TR/EN/AR), Project Management.
 
+
 🛠 Engineering Projects
+
+
 Lucretia Aydınlık Zirvesi '26 Link: https://lucretia26.vercel.app/
 Role: Lead Developer & Infrastructure Architect
 
 Technical Scope: Developed the digital backbone for a high-profile youth summit focused on entrepreneurship and sports. The platform manages complex application pipelines and provides a central hub for event content. Engineered for high performance and rapid response times during peak registration periods.
 
 Key Focus: User flow optimization, SEO, and scalable application handling.
+
+
 
 MESGLOBS
 Link: https://mesglobs.vercel.app/
@@ -29,6 +32,8 @@ Technical Scope: Architected a platform for global engagement and collaborative 
 
 Key Focus: Server-side rendering (SSR), dynamic content delivery, and modern UI/UX principles.
 
+
+
 Fikir Akademisi
 Link: https://fikirakademisi.vercel.app/
 
@@ -38,7 +43,9 @@ Technical Scope: A digital academy platform designed to facilitate structured le
 
 Key Focus: Component-based architecture and performance optimization.
 
-Sarac Tech
+
+
+SaracTech
 Link: https://sarac-tech-main.vercel.app/
 
 Role: Lead Developer
@@ -46,6 +53,8 @@ Role: Lead Developer
 Technical Scope: Engineered a technical resource hub for institutional use. The system serves as a central repository for technical documentation and project showcases, emphasizing high reactivity and a structured data display.
 
 Key Focus: Information architecture and modular frontend design.
+
+
 
 Sarac Hayır Mezatı
 Link: https://sarachayirmezati.vercel.app/
@@ -55,6 +64,8 @@ Role: Lead Developer
 Technical Scope: Developed a community bidding platform for social benefit. This project involved managing real-time data states to handle listings and interactions efficiently, ensuring a reliable experience for users during active bidding windows.
 
 Key Focus: State management and real-time frontend reactivity.
+
+
 
 Discite System | Advanced Educational Ecosystem
 Link: https://discitesystem.vercel.app/
@@ -74,16 +85,14 @@ Cross-Domain Integration: My expertise often intersects software and hardware, a
 
 🎯 Current Objectives
 Scaling the Discite System into a production-ready SaaS for educational institutions.
-
 Advancing autonomous navigation capabilities in robotics via Jetson Nano and Python-based computer vision.
-
 Contributing to open-source technical documentation and localization projects in the TR/AR regions.
+
+
 
 📫 Connect With Me
 Email: mstfyzc.29@gmail.com
-
 LinkedIn: Mustafa Yazıcı
-
 Instagram: @mstfyzc.29
 
 Location: Istanbul, Türkiye
