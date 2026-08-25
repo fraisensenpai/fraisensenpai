@@ -1,101 +1,161 @@
-Mustafa Yazıcı | FraisenSenpai
-Full-stack Developer | System Architect | Technical Project Lead
+# Mustafa Yazıcı | FraisenSenpai
 
-Dedicated to building scalable platforms and integrated digital ecosystems. I focus on transforming complex requirements into functional, high-performance software, ranging from educational management systems to event-driven architectures. My approach prioritizes modularity, database integrity, and seamless user experiences.
+**Full-Stack Developer · System Architect · Technical Project Lead**
 
-💻 Technical Proficiency
-Frontend Architecture: React.js, Next.js, Tailwind CSS, TypeScript, Responsive UI/UX Design.
+I build software systems, web platforms, and technical projects from the ground up.
 
-Backend & Infrastructure: Supabase (BaaS), PostgreSQL, Node.js, Python, RESTful API Design.
-Hardware & Robotics: C++, Jetson Nano, Raspberry Pi, FPV Drone Systems (Pixhawk/Mavlink), YOLOv5 Object Detection.
-Tools & Localization: Git/GitHub, Technical Documentation, Software Localization (TR/EN/AR), Project Management.
+My main focus is full-stack development, backend architecture, databases, and building systems that are practical, maintainable, and easy to extend. I also work across software and hardware, especially robotics, computer vision, and embedded systems.
+
+##  Tech Stack
+
+**Frontend**
+
+* React
+* Next.js
+* TypeScript
+* Tailwind CSS
+* Responsive UI/UX
+
+**Backend & Database**
+
+* Node.js
+* Python
+* REST APIs
+* PostgreSQL
+* Supabase
+
+**Systems & Hardware**
+
+* C / C++
+* Raspberry Pi
+* Jetson Nano
+* Pixhawk / MAVLink
+* FPV systems
+* YOLOv5
+
+**Tools**
+
+* Git / GitHub
+* Technical documentation
+* Localization
+* Turkish / English / Arabic
+
+---
+
+## 🛠 Projects
+
+### Lucretia Aydınlık Zirvesi '26
+
+**Lead Developer & Infrastructure Architect**
+
+[lucretia26.vercel.app](https://lucretia26.vercel.app/)
+
+Built the web platform and infrastructure for a youth summit. The system handles event information and application flows while being designed to remain responsive during periods of high traffic.
+
+**Focus:** Application flow, performance, SEO, scalability
+
+---
+
+### MESGLOBS
+
+**Full-Stack Developer**
+
+[mesglobs.vercel.app](https://mesglobs.vercel.app/)
+
+A Next.js platform built around global collaboration and idea sharing. I worked on the application architecture, dynamic content, and overall frontend experience.
+
+**Focus:** Next.js, SSR, dynamic content, UI/UX
+
+---
+
+### Fikir Akademisi
+
+**Full-Stack Developer**
+
+[fikirakademisi.vercel.app](https://fikirakademisi.vercel.app/)
+
+A digital learning and idea-sharing platform. The project focuses on keeping information organized while maintaining a simple and fast user experience.
+
+**Focus:** Component architecture, navigation, performance
+
+---
+
+### SaracTech
+
+**Lead Developer**
+
+[sarac-tech-main.vercel.app](https://sarac-tech-main.vercel.app/)
+
+A technical resource and project showcase platform designed for institutional use. I focused on the structure of the application and how technical information is presented.
+
+**Focus:** Information architecture, modular frontend design
+
+---
+
+### Sarac Hayır Mezatı
+
+**Lead Developer**
+
+[sarachayirmezati.vercel.app](https://sarachayirmezati.vercel.app/)
+
+A community bidding platform for charitable activities. The application manages listings and changing states during active bidding sessions.
+
+**Focus:** State management, real-time updates, frontend reactivity
+
+---
+
+### Discite System
+
+**System Architect & Backend Developer**
+
+[discitesystem.vercel.app](https://discitesystem.vercel.app/)
+
+An educational platform built around teacher management, assignments, quizzes, and student workflows.
+
+I designed the database structure and backend architecture using Supabase and PostgreSQL, including authentication, role-based permissions, automated grading, and real-time data synchronization.
+
+**Focus:** PostgreSQL, Supabase, RBAC, authentication, real-time systems
+
+---
+
+## 🧠 How I Build
+
+I prefer understanding the whole system instead of only working on individual features.
+
+When building a project, I usually think about:
+
+* How the frontend, backend, and database communicate
+* How data should be structured
+* How authentication and permissions should work
+* How the system can be extended later
+* What happens when the number of users grows
+* How to keep the codebase understandable
+
+I'm particularly interested in projects where software has to interact with something outside the browser — whether that's a database, an API, a robot, or a physical device.
+
+---
+
+##  Beyond Web Development
+
+My interests go beyond traditional web development.
+
+I've worked with **Raspberry Pi, Jetson Nano, Pixhawk/MAVLink, FPV systems, and computer vision**. I'm especially interested in autonomous systems and combining software with hardware.
+
+I also contribute to **technical localization and documentation**, particularly around the Minecraft modding ecosystem, with a focus on Turkish and Arabic users.
+
+---
 
 
-🛠 Engineering Projects
+##  Contact
 
+**Email:** [mstfyzc.29@gmail.com](mailto:mstfyzc.29@gmail.com)
+**LinkedIn:** Mustafa Yazıcı
+**Instagram:** [@mstfyzc.29](https://instagram.com/mstfyzc.29)
 
-Lucretia Aydınlık Zirvesi '26 
-Link: https://lucretia26.vercel.app/
-Role: Lead Developer & Infrastructure Architect
+**Istanbul, Türkiye**
 
-Technical Scope: Developed the digital backbone for a high-profile youth summit focused on entrepreneurship and sports. The platform manages complex application pipelines and provides a central hub for event content. Engineered for high performance and rapid response times during peak registration periods.
+---
 
-Key Focus: User flow optimization, SEO, and scalable application handling.
-
-
-
-MESGLOBS
-Link: https://mesglobs.vercel.app/
-
-Role: Full-stack Developer
-
-Technical Scope: Architected a platform for global engagement and collaborative thinking using Next.js. Implemented modern web standards to ensure high accessibility and performance. This project demonstrates a commitment to building community-driven technical solutions with a clean, professional interface.
-
-Key Focus: Server-side rendering (SSR), dynamic content delivery, and modern UI/UX principles.
-
-
-
-Fikir Akademisi
-Link: https://fikirakademisi.vercel.app/
-
-Role: Full-stack Developer
-
-Technical Scope: A digital academy platform designed to facilitate structured learning and idea exchange. Built with a focus on content hierarchy and seamless navigation, utilizing a modern tech stack to ensure a lightweight yet powerful user experience.
-
-Key Focus: Component-based architecture and performance optimization.
-
-
-
-SaracTech
-Link: https://sarac-tech-main.vercel.app/
-
-Role: Lead Developer
-
-Technical Scope: Engineered a technical resource hub for institutional use. The system serves as a central repository for technical documentation and project showcases, emphasizing high reactivity and a structured data display.
-
-Key Focus: Information architecture and modular frontend design.
-
-
-
-Sarac Hayır Mezatı
-Link: https://sarachayirmezati.vercel.app/
-
-Role: Lead Developer
-
-Technical Scope: Developed a community bidding platform for social benefit. This project involved managing real-time data states to handle listings and interactions efficiently, ensuring a reliable experience for users during active bidding windows.
-
-Key Focus: State management and real-time frontend reactivity.
-
-
-
-Discite System | Advanced Educational Ecosystem
-Link: https://discitesystem.vercel.app/
-
-Role: System Architect & Backend Developer
-
-Technical Scope: A comprehensive, multi-tenant "Teacher Panel" and "Assignment/Quiz System." Built using Supabase for real-time synchronization, PostgreSQL for complex data modeling, and robust authentication layers. It automates grading logic and streamlines student-teacher communication through a centralized dashboard.
-
-Key Focus: Relational database design, role-based access control (RBAC), and automated workflow systems.
-
-🧠 Engineering Mindset
-Systems Thinking: I don't just write code; I design systems. Whether it's a database schema for an educational platform or an integration for an FPV drone, I analyze how components interact to ensure long-term stability and performance.
-
-Technical Localization: Active in the localization space, specifically within the Minecraft modding ecosystem. I bridge the gap between global software and local users through high-fidelity technical translation and documentation.
-
-Cross-Domain Integration: My expertise often intersects software and hardware, applying computer vision (YOLO) and embedded programming to solve physical-world challenges.
-
-🎯 Current Objectives
-Scaling the Discite System into a production-ready SaaS for educational institutions.
-Advancing autonomous navigation capabilities in robotics via Jetson Nano and Python-based computer vision.
-Contributing to open-source technical documentation and localization projects in the TR/AR regions.
-
-
-
-📫 Connect With Me
-Email: mstfyzc.29@gmail.com
-LinkedIn: Mustafa Yazıcı
-Instagram: @mstfyzc.29
-
-Location: Istanbul, Türkiye
-
-Mustafa Yazıcı, also known as FraisenSenpai, is a developer committed to technical excellence and the pursuit of complex problem-solving.
+> **Mustafa Yazıcı — FraisenSenpai**
+>
+> Full-stack developer interested in software architecture, systems, robotics, and building things that actually work.
