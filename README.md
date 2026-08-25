@@ -118,20 +118,6 @@ I designed the database structure and backend architecture using Supabase and Po
 
 ---
 
-## 🧠 How I Build
-
-I prefer understanding the whole system instead of only working on individual features.
-
-When building a project, I usually think about:
-
-* How the frontend, backend, and database communicate
-* How data should be structured
-* How authentication and permissions should work
-* How the system can be extended later
-* What happens when the number of users grows
-* How to keep the codebase understandable
-
-I'm particularly interested in projects where software has to interact with something outside the browser — whether that's a database, an API, a robot, or a physical device.
 
 ---
 
