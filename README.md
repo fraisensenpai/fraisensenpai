@@ -102,19 +102,6 @@ A community bidding platform for charitable activities. The application manages 
 
 **Focus:** State management, real-time updates, frontend reactivity
 
----
-
-### Discite System
-
-**System Architect & Backend Developer**
-
-[discitesystem.vercel.app](https://discitesystem.vercel.app/)
-
-An educational platform built around teacher management, assignments, quizzes, and student workflows.
-
-I designed the database structure and backend architecture using Supabase and PostgreSQL, including authentication, role-based permissions, automated grading, and real-time data synchronization.
-
-**Focus:** PostgreSQL, Supabase, RBAC, authentication, real-time systems
 
 ---
 
