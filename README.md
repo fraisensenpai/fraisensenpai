@@ -1,27 +1,7 @@
-# Mustafa Yazıcı | FraisenSenpai
+hei
 
-**Developer · AI & Software · Robotics**
+high school student in türkiye. interested in cybersecurity, software, and the little details that make technology tick. usually learning something new, following a curiosity down a rabbit hole, or watching anime when i'm away from the screen.
 
-I build software, experiment with AI, and work on robotics projects.
+this github is where i keep some of that exploration: things i'm learning, ideas i'm trying, and whatever i feel like building along the way. still figuring things out, still asking questions, and having a good time with it.
 
-Currently focused on **AI research, full-stack systems, and Crescendo Software**, where we build web platforms and software for real-world use.
-
-### What I use
-
-* TypeScript / React / Next.js
-* Node.js / Python
-* PostgreSQL / Supabase
-* C / C++
-* Git / GitHub
-* Raspberry Pi / Jetson / Pixhawk
-
-### Currently
-
-* AI & LLMs
-* Software architecture
-* Robotics & embedded systems
-* Computer vision
-* Crescendo Software
-
-📍 Istanbul, Türkiye
-
+always up for a good anime recommendation or a conversation about tech. say hi anytime.
